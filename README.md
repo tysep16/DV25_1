@@ -1,2 +1,2 @@
 # DV25_1
-1st Semester, Data Visualization 2025
+Data Visualization 2025, 1st Semester
